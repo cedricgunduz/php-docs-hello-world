@@ -1,4 +1,4 @@
-<?php
+ "<?php
 echo "Hello World1";
 function OpenCon()
 {
@@ -14,4 +14,5 @@ function CloseCon($conn)
 {
 $conn -> close();
 }
+OpenCon();
 ?>
