@@ -1,4 +1,4 @@
-?php
+<?php
 function OpenCon()
 {
 $dbhost = "db-mariadb-7930-uat-db01test.mariadb.database.azure.com";
